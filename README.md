@@ -582,7 +582,6 @@ def main():
 if __name__ == "__main__":
     main()
 
-```
 
 ### ANALYSIS AND DETECTION ###
 This section provides an educational breakdown of how to analyze and detect conceptual ransomware like the one above,
